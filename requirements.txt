@@ -1,0 +1,10 @@
+streamlit
+requests
+beautifulsoup4
+faiss-cpu
+numpy
+fastembed
+transformers
+torch
+huggingface-hub
+python-dotenv
